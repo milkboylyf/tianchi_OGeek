@@ -6,7 +6,7 @@
 >(1) A榜：0.7347 <br>
 >(2) B榜：0.7335 <br>
 >(3) 比赛网址：https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409106.5678.1.2c547b6fmKviKy&raceId=231688<br>
->(4) 数据下载地址：链接：https://pan.baidu.com/s/1JdjA0cMijrqTCWpaCGMaYA  提取码：vg19  <br>
+>(4) 数据下载地址：链接：https://pan.baidu.com/s/1NPUWzt7usUniogCJosWnzw  提取码：69xr  <br>
 
 1 baseline 共享网址
 ======
